@@ -1,0 +1,13 @@
+{
+  "pages": [
+    {
+      "id": "0",
+      "moduleId": "1",
+      "containerId": "main-content",
+      "html": "<h1>Home</h1>",
+      "css": "main {background: #1B74B0;}",
+      "js": "console.log('This is JS for page Home');",
+      "children": []
+    }
+  ]
+}
