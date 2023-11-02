@@ -1,0 +1,50 @@
+{
+  "pages": [
+    {
+      "id": "8",
+      "moduleId": "1",
+      "containerId": "main-content",
+      "html": "<h1>Communications</h1>",
+      "css": "main {background: #9BA76B;}",
+      "js": "console.log('This is JS for page Communications');",
+      "children": [
+        {
+          "id": "8_1",
+          "moduleId": "1",
+          "containerId": "main-content",
+          "html": "<h1>Feed</h1>",
+          "css": "main {background: #D05C19;}",
+          "js": "console.log('This is JS for page Feed');",
+          "children": []
+        },
+        {
+          "id": "8_2",
+          "moduleId": "2",
+          "containerId": "main-content",
+          "html": "<h1>Groups</h1>",
+          "css": "main {background: #04293F;}",
+          "js": "console.log('This is JS for page Groups');",
+          "children": []
+        },
+        {
+          "id": "8_3",
+          "moduleId": "3",
+          "containerId": "main-content",
+          "html": "<h1>Tasks</h1>",
+          "css": "main {background: #648A16;}",
+          "js": "console.log('This is JS for page Tasks');",
+          "children": []
+        },
+        {
+          "id": "8_4",
+          "moduleId": "4",
+          "containerId": "main-content",
+          "html": "<h1>Apps</h1>",
+          "css": "main {background: #942B7E;}",
+          "js": "console.log('This is JS for page Apps');",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

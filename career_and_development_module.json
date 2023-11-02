@@ -1,0 +1,104 @@
+{
+  "pages": [
+    {
+      "id": "4",
+      "moduleId": "1",
+      "containerId": "main-content",
+      "html": "<h1>Benefits</h1>",
+      "css": "main {background: #8D60C1;}",
+      "js": "console.log('This is JS for page Benefits');",
+      "children": [
+        {
+          "id": "4_1",
+          "moduleId": "1",
+          "containerId": "main-content",
+          "html": "<h1>Benefits hub</h1>",
+          "css": "main {background: #115DC4;}",
+          "js": "console.log('This is JS for page Benefits hub');",
+          "children": []
+        },
+        {
+          "id": "4_2",
+          "moduleId": "2",
+          "containerId": "main-content",
+          "html": "<h1>Open enrollment</h1>",
+          "css": "main {background: #144140;}",
+          "js": "console.log('This is JS for page Open enrollment');",
+          "children": []
+        },
+        {
+          "id": "4_3",
+          "moduleId": "3",
+          "containerId": "main-content",
+          "html": "<h1>Life events</h1>",
+          "css": "main {background: #86DEB6;}",
+          "js": "console.log('This is JS for page Life events');",
+          "children": []
+        },
+        {
+          "id": "4_4",
+          "moduleId": "4",
+          "containerId": "main-content",
+          "html": "<h1>Benefits summary classic</h1>",
+          "css": "main {background: #6B9B7B;}",
+          "js": "console.log('This is JS for page Benefits summary classic');",
+          "children": []
+        },
+        {
+          "id": "4_5",
+          "moduleId": "5",
+          "containerId": "main-content",
+          "html": "<h1>1095-C</h1>",
+          "css": "main {background: #0BD4AA;}",
+          "js": "console.log('This is JS for page 1095-C');",
+          "children": []
+        },
+        {
+          "id": "4_6",
+          "moduleId": "6",
+          "containerId": "main-content",
+          "html": "<h1>Beneficiaries and dependents</h1>",
+          "css": "main {background: #72408E;}",
+          "js": "console.log('This is JS for page Beneficiaries and dependents');",
+          "children": []
+        },
+        {
+          "id": "4_7",
+          "moduleId": "7",
+          "containerId": "main-content",
+          "html": "<h1>COBRA</h1>",
+          "css": "main {background: #81E0DB;}",
+          "js": "console.log('This is JS for page COBRA');",
+          "children": []
+        },
+        {
+          "id": "4_8",
+          "moduleId": "8",
+          "containerId": "main-content",
+          "html": "<h1>Health care eligibility</h1>",
+          "css": "main {background: #05D2E4;}",
+          "js": "console.log('This is JS for page Health care eligibility');",
+          "children": []
+        },
+        {
+          "id": "4_9",
+          "moduleId": "9",
+          "containerId": "main-content",
+          "html": "<h1>Investments</h1>",
+          "css": "main {background: #566FF9;}",
+          "js": "console.log('This is JS for page Investments');",
+          "children": []
+        },
+        {
+          "id": "4_10",
+          "moduleId": "10",
+          "containerId": "main-content",
+          "html": "<h1>Benefit links</h1>",
+          "css": "main {background: #A12D46;}",
+          "js": "console.log('This is JS for page Benefit links');",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

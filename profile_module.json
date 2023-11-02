@@ -1,0 +1,133 @@
+{
+  "pages": [
+    {
+      "id": "1",
+      "moduleId": "1",
+      "containerId": "main-content",
+      "html": "<h1>Profile</h1>",
+      "css": "main {background: #3375C3;}",
+      "js": "console.log('This is JS for page Profile');",
+      "children": [
+        {
+          "id": "1_1",
+          "moduleId": "1",
+          "containerId": "main-content",
+          "html": "<h1>Profile hub</h1>",
+          "css": "main {background: #9B1778;}",
+          "js": "console.log('This is JS for page Profile hub');",
+          "children": []
+        },
+        {
+          "id": "1_2",
+          "moduleId": "2",
+          "containerId": "main-content",
+          "html": "<h1>Personal profile</h1>",
+          "css": "main {background: #EC1D19;}",
+          "js": "console.log('This is JS for page Personal profile');",
+          "children": [
+            {
+              "id": "1_2_1",
+              "moduleId": "2",
+              "containerId": "main-content",
+              "html": "<h1>Name, address, and telephone</h1>",
+              "css": "main {background: #464E67;}",
+              "js": "console.log('This is JS for page Name, address, and telephone');",
+              "children": []
+            },
+            {
+              "id": "1_2_2",
+              "moduleId": "2",
+              "containerId": "main-content",
+              "html": "<h1>Family and emergency contacts</h1>",
+              "css": "main {background: #92A1C6;}",
+              "js": "console.log('This is JS for page Family and emergency contacts');",
+              "children": []
+            },
+            {
+              "id": "1_2_3",
+              "moduleId": "2",
+              "containerId": "main-content",
+              "html": "<h1>Private information</h1>",
+              "css": "main {background: #7B0B7C;}",
+              "js": "console.log('This is JS for page Private information');",
+              "children": []
+            },
+            {
+              "id": "1_2_4",
+              "moduleId": "2",
+              "containerId": "main-content",
+              "html": "<h1>Identification documents</h1>",
+              "css": "main {background: #84A002;}",
+              "js": "console.log('This is JS for page Identification documents');",
+              "children": []
+            },
+            {
+              "id": "1_2_5",
+              "moduleId": "2",
+              "containerId": "main-content",
+              "html": "<h1>Other personal info</h1>",
+              "css": "main {background: #545F6D;}",
+              "js": "console.log('This is JS for page Other personal info');",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1_3",
+          "moduleId": "3",
+          "containerId": "main-content",
+          "html": "<h1>Job profile</h1>",
+          "css": "main {background: #C6E825;}",
+          "js": "console.log('This is JS for page Job profile');",
+          "children": [
+            {
+              "id": "1_3_1",
+              "moduleId": "3",
+              "containerId": "main-content",
+              "html": "<h1>Status and key dates</h1>",
+              "css": "main {background: #7183F9;}",
+              "js": "console.log('This is JS for page Status and key dates');",
+              "children": []
+            },
+            {
+              "id": "1_3_2",
+              "moduleId": "3",
+              "containerId": "main-content",
+              "html": "<h1>Status history</h1>",
+              "css": "main {background: #E1B936;}",
+              "js": "console.log('This is JS for page Status history');",
+              "children": []
+            },
+            {
+              "id": "1_3_3",
+              "moduleId": "3",
+              "containerId": "main-content",
+              "html": "<h1>Company property</h1>",
+              "css": "main {background: #A47378;}",
+              "js": "console.log('This is JS for page Company property');",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1_4",
+          "moduleId": "4",
+          "containerId": "main-content",
+          "html": "<h1>Talent profile</h1>",
+          "css": "main {background: #8C5FD8;}",
+          "js": "console.log('This is JS for page Talent profile');",
+          "children": []
+        },
+        {
+          "id": "1_5",
+          "moduleId": "5",
+          "containerId": "main-content",
+          "html": "<h1>Time and attendance profile</h1>",
+          "css": "main {background: #A73E57;}",
+          "js": "console.log('This is JS for page Time and attendance profile');",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

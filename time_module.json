@@ -1,0 +1,87 @@
+{
+  "pages": [
+    {
+      "id": "2",
+      "moduleId": "1",
+      "containerId": "main-content",
+      "html": "<h1>Time</h1>",
+      "css": "main {background: #616686;}",
+      "js": "console.log('This is JS for page Time and attendance');",
+      "children": [
+        {
+          "id": "2_1",
+          "moduleId": "1",
+          "containerId": "main-content",
+          "html": "<h1>Time and attendance hub</h1>",
+          "css": "main {background: #A0B369;}",
+          "js": "console.log('This is JS for page Time and attendance hub');",
+          "children": []
+        },
+        {
+          "id": "2_2",
+          "moduleId": "2",
+          "containerId": "main-content",
+          "html": "<h1>Calendar</h1>",
+          "css": "main {background: #6A9899;}",
+          "js": "console.log('This is JS for page Calendar');",
+          "children": []
+        },
+        {
+          "id": "2_3",
+          "moduleId": "3",
+          "containerId": "main-content",
+          "html": "<h1>Timecard</h1>",
+          "css": "main {background: #D4AEBE;}",
+          "js": "console.log('This is JS for page Timecard');",
+          "children": []
+        },
+        {
+          "id": "2_4",
+          "moduleId": "4",
+          "containerId": "main-content",
+          "html": "<h1>Time and attendance classic</h1>",
+          "css": "main {background: #F8FAE9;}",
+          "js": "console.log('This is JS for page Time and attendance classic');",
+          "children": []
+        },
+        {
+          "id": "2_5",
+          "moduleId": "5",
+          "containerId": "main-content",
+          "html": "<h1>Time management classic</h1>",
+          "css": "main {background: #F27F7B;}",
+          "js": "console.log('This is JS for page Time management classic');",
+          "children": []
+        },
+        {
+          "id": "2_6",
+          "moduleId": "6",
+          "containerId": "main-content",
+          "html": "<h1>Time off PTO, classic</h1>",
+          "css": "main {background: #F4D7E7;}",
+          "js": "console.log('This is JS for page Time off PTO, classic');",
+          "children": [
+            {
+              "id": "2_6_1",
+              "moduleId": "6",
+              "containerId": "main-content",
+              "html": "<h1>Time off plans</h1>",
+              "css": "main {background: #DE4913;}",
+              "js": "console.log('This is JS for page Time off plans');",
+              "children": []
+            },
+            {
+              "id": "2_6_2",
+              "moduleId": "6",
+              "containerId": "main-content",
+              "html": "<h1>Time off requests</h1>",
+              "css": "main {background: #7EC175;}",
+              "js": "console.log('This is JS for page Time off requests');",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

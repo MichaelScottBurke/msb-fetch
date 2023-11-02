@@ -1,0 +1,95 @@
+{
+  "pages": [
+    {
+      "id": "7",
+      "moduleId": "1",
+      "containerId": "main-content",
+      "html": "<h1>Documents</h1>",
+      "css": "main {background: #68ED5B;}",
+      "js": "console.log('This is JS for page Documents');",
+      "children": [
+        {
+          "id": "7_1",
+          "moduleId": "1",
+          "containerId": "main-content",
+          "html": "<h1>Documents hub</h1>",
+          "css": "main {background: #EC351B;}",
+          "js": "console.log('This is JS for page Documents hub');",
+          "children": []
+        },
+        {
+          "id": "7_2",
+          "moduleId": "2",
+          "containerId": "main-content",
+          "html": "<h1>Identification documents</h1>",
+          "css": "main {background: #C52C02;}",
+          "js": "console.log('This is JS for page Identification documents');",
+          "children": []
+        },
+        {
+          "id": "7_3",
+          "moduleId": "3",
+          "containerId": "main-content",
+          "html": "<h1>Document tasks</h1>",
+          "css": "main {background: #F6562D;}",
+          "js": "console.log('This is JS for page Document tasks');",
+          "children": []
+        },
+        {
+          "id": "7_4",
+          "moduleId": "4",
+          "containerId": "main-content",
+          "html": "<h1>Document requests</h1>",
+          "css": "main {background: #CDCF62;}",
+          "js": "console.log('This is JS for page Document requests');",
+          "children": []
+        },
+        {
+          "id": "7_5",
+          "moduleId": "5",
+          "containerId": "main-content",
+          "html": "<h1>Document folder</h1>",
+          "css": "main {background: #4BF62F;}",
+          "js": "console.log('This is JS for page Document folder');",
+          "children": []
+        },
+        {
+          "id": "7_6",
+          "moduleId": "6",
+          "containerId": "main-content",
+          "html": "<h1>Document categories</h1>",
+          "css": "main {background: #19D56D;}",
+          "js": "console.log('This is JS for page Document categories');",
+          "children": []
+        },
+        {
+          "id": "7_7",
+          "moduleId": "7",
+          "containerId": "main-content",
+          "html": "<h1>Document acknowledgments</h1>",
+          "css": "main {background: #5BB9AE;}",
+          "js": "console.log('This is JS for page Document acknowledgments');",
+          "children": []
+        },
+        {
+          "id": "7_8",
+          "moduleId": "8",
+          "containerId": "main-content",
+          "html": "<h1>Employee documents classic</h1>",
+          "css": "main {background: #B350E3;}",
+          "js": "console.log('This is JS for page Employee documents classic');",
+          "children": []
+        },
+        {
+          "id": "7_9",
+          "moduleId": "9",
+          "containerId": "main-content",
+          "html": "<h1>Electronic forms</h1>",
+          "css": "main {background: #4F5187;}",
+          "js": "console.log('This is JS for page Electronic forms');",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
