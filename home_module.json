@@ -1,8 +1,8 @@
 {
   "pages": [
     {
-      "id": "0",
-      "moduleId": "1",
+      "id": "home",
+      "moduleId": "home",
       "containerId": "main-content",
       "html": "<h1>Home</h1>",
       "css": "main {background: #1B74B0;}",
