@@ -8,6 +8,33 @@
       "css": "main {background: #1B74B0;}",
       "js": "console.log('This is JS for page Home');",
       "children": []
-    }
+    },
+        {
+      "id": "home-chat",
+      "moduleId": "home",
+      "containerId": "chat-drawer-content",
+      "html": "<p>chat content</p>",
+      "css": "main {background: #1B74B0;}",
+      "js": "console.log('This is JS for chat drawer content');",
+      "children": []
+    },
+    {
+      "id": "home-notifications",
+      "moduleId": "home",
+      "containerId": "notifications-drawer-content",
+      "html": "<p>notifications content</p>",
+      "css": "main {background: #1B74B0;}",
+      "js": "console.log('This is JS for notifications drawer content');",
+      "children": []
+    },
+      {
+      "id": "home-help",
+      "moduleId": "home",
+      "containerId": "help-drawer-content",
+      "html": "<p>help content</p>",
+      "css": "main {background: #1B74B0;}",
+      "js": "console.log('This is JS for help drawer content');",
+      "children": []
+    },
   ]
 }
