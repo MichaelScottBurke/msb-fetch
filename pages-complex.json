@@ -1,0 +1,58 @@
+
+{
+  "tab": "myself",
+  "module": {
+    "/profile/profile_hub": {
+      "id": "1_1_1",
+      "label": "Profile hub",
+      "icon": "",
+      "containerId": "main-content",
+      "tags": [],
+      "contents": [ {
+        "html": "<div>Profile hub</div>",
+        "css": "body { background-color: blue; }",
+        "js": "console.log('This is JS for Profile hub');"
+      }
+      ]
+    },
+    "/profile/profile_personal": {
+      "id": "1_1_2",
+      "label": "Personal profile",
+      "icon": "",
+      "containerId": "main-content",
+      "tags": [],
+      "contents": [ {
+        "html": "<div>Content for Page 1</div>",
+        "css": "body { background-color: blue; }",
+        "js": "console.log('This is JS for personal profile');"
+      }
+      ]
+    },
+    "/profile/profile_job": {
+      "id": "1_1_3",
+      "label": "Job profile",
+      "icon": "",
+      "containerId": "main-content",
+      "tags": [],
+      "contents": [ {
+        "html": "<div>Content for Page 1</div>",
+        "css": "body { background-color: blue; }",
+        "js": "console.log('This is JS for job profile');"
+      }
+      ]
+    },
+    "/profile/profile_talent": {
+      "id": "1_1_1",
+      "label": "Talent profile",
+      "icon": "",
+      "containerId": "main-content",
+      "tags": [],
+      "contents": [ {
+        "html": "<div>Content for Page 1</div>",
+        "css": "body { background-color: blue; }",
+        "js": "console.log('This is JS for talent profile');"
+      }
+      ]
+    }
+  }
+}
