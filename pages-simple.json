@@ -26,7 +26,7 @@
       "containerId": "main-content",
       "html": "<h1>Page 4</h1>",
       "css": "main {background: #E0F4F8;}",
-      "js": "console.log('This is JS for Page 3');"
+      "js": "console.log('This is JS for Page 4');"
     }
   ]
 }
