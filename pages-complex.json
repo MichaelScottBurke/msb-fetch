@@ -21,7 +21,7 @@
       "containerId": "main-content",
       "tags": [],
       "contents": [ {
-        "html": "<div>Content for Page 1</div>",
+        "html": "<div>Personal profile</div>",
         "css": "body { background-color: blue; }",
         "js": "console.log('This is JS for personal profile');"
       }
